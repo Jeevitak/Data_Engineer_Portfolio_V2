@@ -1,0 +1,6 @@
+# Requirements for running Airflow DAG: Analytics Pipeline
+# Developed in PyCharm IDE and tested in Google Cloud Composer Sandbox
+
+apache-airflow[gcp]==2.8.1
+google-cloud-storage==2.14.0
+google-cloud-bigquery==3.17.2
