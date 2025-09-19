@@ -66,6 +66,20 @@ Built an end-to-end pipeline using **DLT with Bronze, Silver, and Gold layers**.
 
 ---
 
+**Project: COVID-19 Data Pipeline & Dashboard on Snowflake**  
+
+Role: Independent Developer  
+Tech: Snowflake, Python, Streamlit, Plotly  
+Project Overview:  
+Built an automated COVID-19 data pipeline on Snowflake with incremental loads, clustering for faster queries, and an interactive Streamlit dashboard for analysis and reporting.  
+
+Impact / Highlights:  
+- Implemented incremental data loads using Snowflake streams and tasks  
+- Optimized queries using table clustering for faster reporting  
+- Developed an interactive dashboard with Streamlit and Plotly  
+
+[View Project Folder](Data_Analysing_organising_with_snowtasks_and_streamlit)
+
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/jeevita](https://www.linkedin.com/in/jeevita-kulkarni-326a62273/)  
 - **Email:** jeevitakulkarni4@gmail.com
