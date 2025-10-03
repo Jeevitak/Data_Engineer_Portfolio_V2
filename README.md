@@ -80,6 +80,32 @@ Impact / Highlights:
 
 [View Project Folder](Data_Analysing_organising_with_snowtasks_and_streamlit)
 
+
+# Real-Time Crypto Data Pipeline 🚀
+
+### 📌 Overview
+A real-time data pipeline built to stream **cryptocurrency price data** from the CoinGecko API into **Snowflake** using **Kafka** and **Airflow**.
+
+### ⚙️ Tech Stack
+- Python (Kafka Producer & Consumer)
+- Apache Kafka & Zookeeper (Dockerized)
+- Apache Airflow (workflow orchestration)
+- Snowflake (data warehouse)
+- Snowsight (reporting & BI)
+
+### 🔑 Features
+- Real-time ingestion of Bitcoin & Ethereum prices
+- Streamed via Kafka into Snowflake tables
+- Orchestrated using Airflow DAGs
+- Metadata added (`dag_run_id`, `source`) for tracking
+- Final reports built on Snowsight
+
+### 📊 Results
+- End-to-end streaming pipeline successfully implemented
+- Crypto price trends analyzed on Snowflake
+
+📂 **Detailed Write-up** → [view_project_folder](https://github.com/Jeevitak/Data_Engineer_Portfolio_V2/tree/main/real-time-crypto-pipeline)  
+
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/jeevita](https://www.linkedin.com/in/jeevita-kulkarni-326a62273/)  
 - **Email:** jeevitakulkarni4@gmail.com
