@@ -7,8 +7,8 @@ import snowflake.connector
 
 # Snowflake connection parameters
 SNOWFLAKE_USER = "JEEVITAK"
-SNOWFLAKE_PASSWORD = "Imdnwtevrythng@745"
-SNOWFLAKE_ACCOUNT = "GLPLNTQ-YMB56622"
+SNOWFLAKE_PASSWORD = "yourpassword@123"
+SNOWFLAKE_ACCOUNT = "your_account"
 SNOWFLAKE_DATABASE = "CRYPTO_DB"
 SNOWFLAKE_SCHEMA = "STAGING"
 SNOWFLAKE_WAREHOUSE = "COMPUTE_WH"  # <-- add your warehouse name here
