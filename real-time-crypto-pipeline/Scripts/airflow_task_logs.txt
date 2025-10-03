@@ -1,0 +1,6 @@
+[2025-09-29 12:10:33] INFO - Starting task: fetch_and_load_task
+[2025-09-29 12:10:33] INFO - Connecting to Kafka topic: crypto_prices
+[2025-09-29 12:10:33] INFO - Consumed message: {"bitcoin": {"usd": 112093}, "ethereum": {"usd": 4125.13}}
+[2025-09-29 12:10:33] INFO - Connecting to Snowflake
+[2025-09-29 12:10:39] INFO - Inserted into Snowflake: 112093, 4125.13, run_id=scheduled__2025-09-29T12:09:21.016234+00:00
+[2025-09-29 12:10:39] INFO - Task completed successfully
