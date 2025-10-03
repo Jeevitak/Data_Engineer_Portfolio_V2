@@ -5,8 +5,8 @@ def insert_into_snowflake(bitcoin_usd, ethereum_usd):
     # Connect to Snowflake
     conn = snowflake.connector.connect(
         user='JEEVITAK',
-        password='Imdnwtevrythng@745',
-        account='GLPLNTQ-YMB56622',       
+        password='yourpassword@123',
+        account='your_account',       
         warehouse='COMPUTE_WH',
         database='CRYPTO_DB',
         schema='STAGING'
