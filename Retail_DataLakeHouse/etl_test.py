@@ -3,7 +3,7 @@ import json
 import pandas as pd
 RAW_PATH = "data/raw"
 STAGING_PATH = "data/staging"
-PROCESSED_PATH = "data/processed"
+PROCESSED_PATH = "data/processed" 
 
 def test_file_existance():
     assert os.path.exists(f"{RAW_PATH}/products.json")
@@ -33,3 +33,4 @@ if __name__ == "__main__":
     test_null_values()
     test_profit_calculation()
     print("ETL Testing Completed Successfully!")
+-------End---------------
