@@ -1,0 +1,992 @@
+[
+  {
+    "sale_id": 1134,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1135,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1136,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P010",
+    "quantity": 2,
+    "unit_price": 1174,
+    "total_amount": 2348
+  },
+  {
+    "sale_id": 1137,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P015",
+    "quantity": 2,
+    "unit_price": 1369,
+    "total_amount": 2738
+  },
+  {
+    "sale_id": 1138,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P010",
+    "quantity": 1,
+    "unit_price": 1174,
+    "total_amount": 1174
+  },
+  {
+    "sale_id": 1139,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P002",
+    "quantity": 3,
+    "unit_price": 409,
+    "total_amount": 1227
+  },
+  {
+    "sale_id": 1140,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P014",
+    "quantity": 4,
+    "unit_price": 1394,
+    "total_amount": 5576
+  },
+  {
+    "sale_id": 1141,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P004",
+    "quantity": 4,
+    "unit_price": 850,
+    "total_amount": 3400
+  },
+  {
+    "sale_id": 1142,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P007",
+    "quantity": 3,
+    "unit_price": 355,
+    "total_amount": 1065
+  },
+  {
+    "sale_id": 1143,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P014",
+    "quantity": 5,
+    "unit_price": 1394,
+    "total_amount": 6970
+  },
+  {
+    "sale_id": 1144,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P003",
+    "quantity": 1,
+    "unit_price": 1485,
+    "total_amount": 1485
+  },
+  {
+    "sale_id": 1145,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P018",
+    "quantity": 1,
+    "unit_price": 1495,
+    "total_amount": 1495
+  },
+  {
+    "sale_id": 1146,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P018",
+    "quantity": 2,
+    "unit_price": 1495,
+    "total_amount": 2990
+  },
+  {
+    "sale_id": 1147,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P010",
+    "quantity": 3,
+    "unit_price": 1174,
+    "total_amount": 3522
+  },
+  {
+    "sale_id": 1148,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P009",
+    "quantity": 2,
+    "unit_price": 1008,
+    "total_amount": 2016
+  },
+  {
+    "sale_id": 1149,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P008",
+    "quantity": 2,
+    "unit_price": 466,
+    "total_amount": 932
+  },
+  {
+    "sale_id": 1150,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1151,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P012",
+    "quantity": 2,
+    "unit_price": 402,
+    "total_amount": 804
+  },
+  {
+    "sale_id": 1152,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P020",
+    "quantity": 4,
+    "unit_price": 1036,
+    "total_amount": 4144
+  },
+  {
+    "sale_id": 1153,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P011",
+    "quantity": 2,
+    "unit_price": 716,
+    "total_amount": 1432
+  },
+  {
+    "sale_id": 1154,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P003",
+    "quantity": 1,
+    "unit_price": 1485,
+    "total_amount": 1485
+  },
+  {
+    "sale_id": 1155,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1156,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P017",
+    "quantity": 1,
+    "unit_price": 445,
+    "total_amount": 445
+  },
+  {
+    "sale_id": 1157,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P018",
+    "quantity": 1,
+    "unit_price": 1495,
+    "total_amount": 1495
+  },
+  {
+    "sale_id": 1158,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1159,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P009",
+    "quantity": 1,
+    "unit_price": 1008,
+    "total_amount": 1008
+  },
+  {
+    "sale_id": 1160,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P012",
+    "quantity": 4,
+    "unit_price": 402,
+    "total_amount": 1608
+  },
+  {
+    "sale_id": 1161,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P003",
+    "quantity": 1,
+    "unit_price": 1485,
+    "total_amount": 1485
+  },
+  {
+    "sale_id": 1162,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P007",
+    "quantity": 5,
+    "unit_price": 355,
+    "total_amount": 1775
+  },
+  {
+    "sale_id": 1163,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P018",
+    "quantity": 1,
+    "unit_price": 1495,
+    "total_amount": 1495
+  },
+  {
+    "sale_id": 1164,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P002",
+    "quantity": 3,
+    "unit_price": 409,
+    "total_amount": 1227
+  },
+  {
+    "sale_id": 1165,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P017",
+    "quantity": 2,
+    "unit_price": 445,
+    "total_amount": 890
+  },
+  {
+    "sale_id": 1166,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P004",
+    "quantity": 4,
+    "unit_price": 850,
+    "total_amount": 3400
+  },
+  {
+    "sale_id": 1167,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P013",
+    "quantity": 2,
+    "unit_price": 426,
+    "total_amount": 852
+  },
+  {
+    "sale_id": 1168,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P018",
+    "quantity": 5,
+    "unit_price": 1495,
+    "total_amount": 7475
+  },
+  {
+    "sale_id": 1169,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P006",
+    "quantity": 5,
+    "unit_price": 1269,
+    "total_amount": 6345
+  },
+  {
+    "sale_id": 1170,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P007",
+    "quantity": 2,
+    "unit_price": 355,
+    "total_amount": 710
+  },
+  {
+    "sale_id": 1171,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P003",
+    "quantity": 5,
+    "unit_price": 1485,
+    "total_amount": 7425
+  },
+  {
+    "sale_id": 1172,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P004",
+    "quantity": 2,
+    "unit_price": 850,
+    "total_amount": 1700
+  },
+  {
+    "sale_id": 1173,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P003",
+    "quantity": 4,
+    "unit_price": 1485,
+    "total_amount": 5940
+  },
+  {
+    "sale_id": 1174,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P017",
+    "quantity": 1,
+    "unit_price": 445,
+    "total_amount": 445
+  },
+  {
+    "sale_id": 1175,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P018",
+    "quantity": 5,
+    "unit_price": 1495,
+    "total_amount": 7475
+  },
+  {
+    "sale_id": 1176,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P005",
+    "quantity": 3,
+    "unit_price": 1363,
+    "total_amount": 4089
+  },
+  {
+    "sale_id": 1177,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P013",
+    "quantity": 4,
+    "unit_price": 426,
+    "total_amount": 1704
+  },
+  {
+    "sale_id": 1178,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P007",
+    "quantity": 2,
+    "unit_price": 355,
+    "total_amount": 710
+  },
+  {
+    "sale_id": 1179,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P001",
+    "quantity": 5,
+    "unit_price": 658,
+    "total_amount": 3290
+  },
+  {
+    "sale_id": 1180,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P020",
+    "quantity": 5,
+    "unit_price": 1036,
+    "total_amount": 5180
+  },
+  {
+    "sale_id": 1181,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P008",
+    "quantity": 5,
+    "unit_price": 466,
+    "total_amount": 2330
+  },
+  {
+    "sale_id": 1182,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P011",
+    "quantity": 4,
+    "unit_price": 716,
+    "total_amount": 2864
+  },
+  {
+    "sale_id": 1183,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P002",
+    "quantity": 1,
+    "unit_price": 409,
+    "total_amount": 409
+  },
+  {
+    "sale_id": 1184,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P012",
+    "quantity": 1,
+    "unit_price": 402,
+    "total_amount": 402
+  },
+  {
+    "sale_id": 1185,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P002",
+    "quantity": 1,
+    "unit_price": 409,
+    "total_amount": 409
+  },
+  {
+    "sale_id": 1186,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P007",
+    "quantity": 3,
+    "unit_price": 355,
+    "total_amount": 1065
+  },
+  {
+    "sale_id": 1187,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P013",
+    "quantity": 1,
+    "unit_price": 426,
+    "total_amount": 426
+  },
+  {
+    "sale_id": 1188,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P004",
+    "quantity": 2,
+    "unit_price": 850,
+    "total_amount": 1700
+  },
+  {
+    "sale_id": 1189,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P018",
+    "quantity": 5,
+    "unit_price": 1495,
+    "total_amount": 7475
+  },
+  {
+    "sale_id": 1190,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P006",
+    "quantity": 1,
+    "unit_price": 1269,
+    "total_amount": 1269
+  },
+  {
+    "sale_id": 1191,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P015",
+    "quantity": 4,
+    "unit_price": 1369,
+    "total_amount": 5476
+  },
+  {
+    "sale_id": 1192,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P002",
+    "quantity": 4,
+    "unit_price": 409,
+    "total_amount": 1636
+  },
+  {
+    "sale_id": 1193,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P001",
+    "quantity": 2,
+    "unit_price": 658,
+    "total_amount": 1316
+  },
+  {
+    "sale_id": 1194,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P008",
+    "quantity": 1,
+    "unit_price": 466,
+    "total_amount": 466
+  },
+  {
+    "sale_id": 1195,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P015",
+    "quantity": 2,
+    "unit_price": 1369,
+    "total_amount": 2738
+  },
+  {
+    "sale_id": 1196,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P014",
+    "quantity": 3,
+    "unit_price": 1394,
+    "total_amount": 4182
+  },
+  {
+    "sale_id": 1197,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P020",
+    "quantity": 3,
+    "unit_price": 1036,
+    "total_amount": 3108
+  },
+  {
+    "sale_id": 1198,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P020",
+    "quantity": 4,
+    "unit_price": 1036,
+    "total_amount": 4144
+  },
+  {
+    "sale_id": 1199,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P019",
+    "quantity": 5,
+    "unit_price": 893,
+    "total_amount": 4465
+  },
+  {
+    "sale_id": 1200,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P005",
+    "quantity": 4,
+    "unit_price": 1363,
+    "total_amount": 5452
+  },
+  {
+    "sale_id": 1201,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P003",
+    "quantity": 5,
+    "unit_price": 1485,
+    "total_amount": 7425
+  },
+  {
+    "sale_id": 1202,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P005",
+    "quantity": 1,
+    "unit_price": 1363,
+    "total_amount": 1363
+  },
+  {
+    "sale_id": 1203,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P007",
+    "quantity": 5,
+    "unit_price": 355,
+    "total_amount": 1775
+  },
+  {
+    "sale_id": 1204,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P018",
+    "quantity": 5,
+    "unit_price": 1495,
+    "total_amount": 7475
+  },
+  {
+    "sale_id": 1205,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P003",
+    "quantity": 1,
+    "unit_price": 1485,
+    "total_amount": 1485
+  },
+  {
+    "sale_id": 1206,
+    "date": "2025-01-02",
+    "store_id": "S004",
+    "product_id": "P019",
+    "quantity": 4,
+    "unit_price": 893,
+    "total_amount": 3572
+  },
+  {
+    "sale_id": 1207,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P018",
+    "quantity": 2,
+    "unit_price": 1495,
+    "total_amount": 2990
+  },
+  {
+    "sale_id": 1208,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P017",
+    "quantity": 5,
+    "unit_price": 445,
+    "total_amount": 2225
+  },
+  {
+    "sale_id": 1209,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P004",
+    "quantity": 4,
+    "unit_price": 850,
+    "total_amount": 3400
+  },
+  {
+    "sale_id": 1210,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P016",
+    "quantity": 2,
+    "unit_price": 367,
+    "total_amount": 734
+  },
+  {
+    "sale_id": 1211,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P010",
+    "quantity": 4,
+    "unit_price": 1174,
+    "total_amount": 4696
+  },
+  {
+    "sale_id": 1212,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P016",
+    "quantity": 3,
+    "unit_price": 367,
+    "total_amount": 1101
+  },
+  {
+    "sale_id": 1213,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P013",
+    "quantity": 1,
+    "unit_price": 426,
+    "total_amount": 426
+  },
+  {
+    "sale_id": 1214,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P013",
+    "quantity": 5,
+    "unit_price": 426,
+    "total_amount": 2130
+  },
+  {
+    "sale_id": 1215,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P018",
+    "quantity": 4,
+    "unit_price": 1495,
+    "total_amount": 5980
+  },
+  {
+    "sale_id": 1216,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P015",
+    "quantity": 4,
+    "unit_price": 1369,
+    "total_amount": 5476
+  },
+  {
+    "sale_id": 1217,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P001",
+    "quantity": 2,
+    "unit_price": 658,
+    "total_amount": 1316
+  },
+  {
+    "sale_id": 1218,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P012",
+    "quantity": 4,
+    "unit_price": 402,
+    "total_amount": 1608
+  },
+  {
+    "sale_id": 1219,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P013",
+    "quantity": 5,
+    "unit_price": 426,
+    "total_amount": 2130
+  },
+  {
+    "sale_id": 1220,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P020",
+    "quantity": 1,
+    "unit_price": 1036,
+    "total_amount": 1036
+  },
+  {
+    "sale_id": 1221,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P012",
+    "quantity": 5,
+    "unit_price": 402,
+    "total_amount": 2010
+  },
+  {
+    "sale_id": 1222,
+    "date": "2025-01-02",
+    "store_id": "S007",
+    "product_id": "P010",
+    "quantity": 1,
+    "unit_price": 1174,
+    "total_amount": 1174
+  },
+  {
+    "sale_id": 1223,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P017",
+    "quantity": 1,
+    "unit_price": 445,
+    "total_amount": 445
+  },
+  {
+    "sale_id": 1224,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P002",
+    "quantity": 4,
+    "unit_price": 409,
+    "total_amount": 1636
+  },
+  {
+    "sale_id": 1225,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P020",
+    "quantity": 1,
+    "unit_price": 1036,
+    "total_amount": 1036
+  },
+  {
+    "sale_id": 1226,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P007",
+    "quantity": 3,
+    "unit_price": 355,
+    "total_amount": 1065
+  },
+  {
+    "sale_id": 1227,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P002",
+    "quantity": 5,
+    "unit_price": 409,
+    "total_amount": 2045
+  },
+  {
+    "sale_id": 1228,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P009",
+    "quantity": 2,
+    "unit_price": 1008,
+    "total_amount": 2016
+  },
+  {
+    "sale_id": 1229,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P002",
+    "quantity": 4,
+    "unit_price": 409,
+    "total_amount": 1636
+  },
+  {
+    "sale_id": 1230,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P013",
+    "quantity": 4,
+    "unit_price": 426,
+    "total_amount": 1704
+  },
+  {
+    "sale_id": 1231,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P020",
+    "quantity": 1,
+    "unit_price": 1036,
+    "total_amount": 1036
+  },
+  {
+    "sale_id": 1232,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P009",
+    "quantity": 5,
+    "unit_price": 1008,
+    "total_amount": 5040
+  },
+  {
+    "sale_id": 1233,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P018",
+    "quantity": 1,
+    "unit_price": 1495,
+    "total_amount": 1495
+  },
+  {
+    "sale_id": 1234,
+    "date": "2025-01-02",
+    "store_id": "S008",
+    "product_id": "P011",
+    "quantity": 2,
+    "unit_price": 716,
+    "total_amount": 1432
+  },
+  {
+    "sale_id": 1235,
+    "date": "2025-01-02",
+    "store_id": "S002",
+    "product_id": "P017",
+    "quantity": 5,
+    "unit_price": 445,
+    "total_amount": 2225
+  },
+  {
+    "sale_id": 1236,
+    "date": "2025-01-02",
+    "store_id": "S001",
+    "product_id": "P008",
+    "quantity": 3,
+    "unit_price": 466,
+    "total_amount": 1398
+  },
+  {
+    "sale_id": 1237,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P013",
+    "quantity": 4,
+    "unit_price": 426,
+    "total_amount": 1704
+  },
+  {
+    "sale_id": 1238,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P001",
+    "quantity": 5,
+    "unit_price": 658,
+    "total_amount": 3290
+  },
+  {
+    "sale_id": 1239,
+    "date": "2025-01-02",
+    "store_id": "S003",
+    "product_id": "P019",
+    "quantity": 4,
+    "unit_price": 893,
+    "total_amount": 3572
+  },
+  {
+    "sale_id": 1240,
+    "date": "2025-01-02",
+    "store_id": "S006",
+    "product_id": "P020",
+    "quantity": 2,
+    "unit_price": 1036,
+    "total_amount": 2072
+  },
+  {
+    "sale_id": 1241,
+    "date": "2025-01-02",
+    "store_id": "S010",
+    "product_id": "P020",
+    "quantity": 4,
+    "unit_price": 1036,
+    "total_amount": 4144
+  },
+  {
+    "sale_id": 1242,
+    "date": "2025-01-02",
+    "store_id": "S005",
+    "product_id": "P011",
+    "quantity": 5,
+    "unit_price": 716,
+    "total_amount": 3580
+  },
+  {
+    "sale_id": 1243,
+    "date": "2025-01-02",
+    "store_id": "S009",
+    "product_id": "P004",
+    "quantity": 1,
+    "unit_price": 850,
+    "total_amount": 850
+  }
+]

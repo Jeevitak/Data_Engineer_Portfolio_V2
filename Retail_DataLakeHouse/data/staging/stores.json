@@ -1,0 +1,62 @@
+[
+  {
+    "store_id": "S001",
+    "store_name": "Store_Delhi_1",
+    "city": "Delhi",
+    "region": "North"
+  },
+  {
+    "store_id": "S002",
+    "store_name": "Store_Mumbai_2",
+    "city": "Mumbai",
+    "region": "West"
+  },
+  {
+    "store_id": "S003",
+    "store_name": "Store_Bangalore_3",
+    "city": "Bangalore",
+    "region": "South"
+  },
+  {
+    "store_id": "S004",
+    "store_name": "Store_Chennai_4",
+    "city": "Chennai",
+    "region": "South"
+  },
+  {
+    "store_id": "S005",
+    "store_name": "Store_Kolkata_5",
+    "city": "Kolkata",
+    "region": "East"
+  },
+  {
+    "store_id": "S006",
+    "store_name": "Store_Hyderabad_6",
+    "city": "Hyderabad",
+    "region": "South"
+  },
+  {
+    "store_id": "S007",
+    "store_name": "Store_Pune_7",
+    "city": "Pune",
+    "region": "West"
+  },
+  {
+    "store_id": "S008",
+    "store_name": "Store_Jaipur_8",
+    "city": "Jaipur",
+    "region": "North"
+  },
+  {
+    "store_id": "S009",
+    "store_name": "Store_Ahmedabad_9",
+    "city": "Ahmedabad",
+    "region": "West"
+  },
+  {
+    "store_id": "S010",
+    "store_name": "Store_Lucknow_10",
+    "city": "Lucknow",
+    "region": "North"
+  }
+]
