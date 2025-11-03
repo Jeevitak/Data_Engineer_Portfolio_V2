@@ -8,7 +8,7 @@ on:
     paths:
       - 'Retail_DataLakeHouse/**'
   schedule:
-    - cron: '30 0 * * *' 
+    - cron: '30 0 * * *'  # Runs daily at 6 AM IST (0:30 UTC)
 
 jobs:
   etl:
@@ -37,3 +37,14 @@ jobs:
     - name: Run ETL tests
       run: |
         python Retail_DataLakeHouse/etl_test.py
+
+    - name: Install dbt
+      run: |
+        pip install dbt-core dbt-sqlite
+
+    - name: Run dbt models
+      run: |
+        cd Retail_DataLakeHouse/retail_dbt
+        dbt deps
+        dbt run
+        dbt test
