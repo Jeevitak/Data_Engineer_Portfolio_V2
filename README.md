@@ -106,6 +106,9 @@ A real-time data pipeline built to stream **cryptocurrency price data** from the
 
 📂 **Detailed Write-up** → [view_project_folder](https://github.com/Jeevitak/Data_Engineer_Portfolio_V2/tree/main/real-time-crypto-pipeline)  
 
+# Retail DataLakeHouse ETL Project 🚀 
+Overview: End-to-end retail data pipeline using Python, SQLite, dbt, and GitHub Actions CI/CD.
+
 Role: Independent Developer
 Tech: Python, SQLite, dbt, GitHub Actions
 Project Overview:
