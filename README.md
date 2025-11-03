@@ -106,6 +106,18 @@ A real-time data pipeline built to stream **cryptocurrency price data** from the
 
 📂 **Detailed Write-up** → [view_project_folder](https://github.com/Jeevitak/Data_Engineer_Portfolio_V2/tree/main/real-time-crypto-pipeline)  
 
+Role: Independent Developer
+Tech: Python, SQLite, dbt, GitHub Actions
+Project Overview:
+Built an end-to-end retail data pipeline to generate, ingest, transform, and test sales data for analytics.
+
+Impact / Highlights:
+Automated ETL pipeline with CI/CD workflow on GitHub Actions
+Implemented dbt models with data quality tests (nulls, uniqueness, calculations)
+Enabled structured, clean data for downstream analytics and reporting
+
+[View Project Folder](https://github.com/Jeevitak/Data_Engineer_Portfolio_V2/tree/main/Retail_DataLakeHouse)
+
 ## 📫 Contact Me
 - **LinkedIn:** [linkedin.com/in/jeevita](https://www.linkedin.com/in/jeevita-kulkarni-326a62273/)  
 - **Email:** jeevitakulkarni4@gmail.com
