@@ -1,0 +1,45 @@
+Retail DataLakeHouse ETL Project
+
+🚀 Overview: End-to-end retail data pipeline using Python, SQLite, dbt, and GitHub Actions CI/CD.
+
+Pipeline includes:
+
+Generate mock data with Faker
+
+Ingest & transform into SQLite (fact_retail_sales)
+
+Data quality tests (row counts, nulls, profit calculations)
+
+dbt models & tests (clean_sales, my_first_dbt_model)
+
+CI/CD: GitHub Actions automates ETL + dbt runs on push, PR, or scheduled daily. Optional email alerts on failures.
+
+Tech: Python | SQLite | Pandas | dbt | GitHub Actions
+
+--Command to run locally--
+
+# Clone repo
+git clone https://github.com/YourUsername/Data_Engineer_Portfolio_V2.git
+cd Data_Engineer_Portfolio_V2/Retail_DataLakeHouse
+
+# Create virtual environment
+python -m venv dbt_env
+dbt_env\Scripts\activate  # Windows
+# source dbt_env/bin/activate  # Mac/Linux
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run ETL scripts
+python generate_retail_data.py
+python ingest_data.py
+python transform_data.py
+
+# Run ETL tests
+python etl_test.py
+
+# Run dbt
+cd retail_dbt
+dbt deps
+dbt run
+dbt test
