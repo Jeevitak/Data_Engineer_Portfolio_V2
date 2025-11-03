@@ -7,6 +7,8 @@ on:
   pull_request:
     paths:
       - 'Retail_DataLakeHouse/**'
+  schedule:
+    - cron: '30 0 * * *' 
 
 jobs:
   etl:
