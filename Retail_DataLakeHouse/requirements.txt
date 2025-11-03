@@ -1,0 +1,4 @@
+pandas
+sqlite3-binary
+dbt-core
+dbt-sqlite
