@@ -11,7 +11,7 @@ Tech: Python | SQLite | Pandas | dbt | GitHub Actions
 # Clone repo
 git clone https://github.com/YourUsername/Data_Engineer_Portfolio_V2.git
 cd Data_Engineer_Portfolio_V2/Retail_DataLakeHouse
-# Create virtual environment
+##Create virtual environment
 python -m venv dbt_env
 dbt_env\Scripts\activate  # Windows
 # source dbt_env/bin/activate  # Mac/Linux
