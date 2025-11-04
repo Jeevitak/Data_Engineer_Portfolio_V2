@@ -57,8 +57,10 @@ jobs:
           echo "      schema_directory: '$(pwd)/Retail_DataLakeHouse/data/'" >> ~/.dbt/profiles.yml
           echo '      schemas_and_paths:' >> ~/.dbt/profiles.yml
           echo "        main: '$(pwd)/Retail_DataLakeHouse/data/retail_dwh.db'" >> ~/.dbt/profiles.yml
-
-
+        
+      - name: Clean existing SQLite DB
+        run: |
+          rm -f Retail_DataLakeHouse/data/retail_dwh.db
 
       - name: Run dbt models
         run: |
