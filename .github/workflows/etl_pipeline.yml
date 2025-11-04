@@ -53,8 +53,8 @@ jobs:
           echo '      threads: 1' >> ~/.dbt/profiles.yml
           echo '      database: "data/retail_dwh.db"' >> ~/.dbt/profiles.yml
           echo '      schema: main' >> ~/.dbt/profiles.yml
-          echo '      schemas_and_paths:' >> ~/.dbt/profiles.yml
-          echo '        main: "data/retail_dwh.db"' >> ~/.dbt/profiles.yml
+          echo '      schema_directory: "data"' >> ~/.dbt/profiles.yml
+
 
       - name: Run dbt models
         run: |
