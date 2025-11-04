@@ -28,4 +28,3 @@ cd retail_dbt
 dbt deps
 dbt run
 dbt test
--------------------------------
