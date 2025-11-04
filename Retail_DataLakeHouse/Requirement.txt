@@ -1,5 +1,5 @@
 Retail DataLakeHouse ETL Project
-🚀 Overview: End-to-end retail data pipeline using Python, SQLite, dbt, and GitHub Actions CI/CD.
+Overview: End-to-end retail data pipeline using Python, SQLite, dbt, and GitHub Actions CI/CD.
 Pipeline includes:
 Generate mock data with Faker
 Ingest & transform into SQLite (fact_retail_sales)
