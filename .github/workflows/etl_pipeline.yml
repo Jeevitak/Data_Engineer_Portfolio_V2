@@ -45,17 +45,19 @@ jobs:
       - name: Create dbt profile
         run: |
           mkdir -p ~/.dbt
+          mkdir -p Retail_DataLakeHouse/data
           echo 'retail_dbt:' > ~/.dbt/profiles.yml
           echo '  target: dev' >> ~/.dbt/profiles.yml
           echo '  outputs:' >> ~/.dbt/profiles.yml
           echo '    dev:' >> ~/.dbt/profiles.yml
           echo '      type: sqlite' >> ~/.dbt/profiles.yml
           echo '      threads: 1' >> ~/.dbt/profiles.yml
-          echo '      database: "data/retail_dwh.db"' >> ~/.dbt/profiles.yml
+          echo '      database: "Retail_DataLakeHouse/data/retail_dwh.db"' >> ~/.dbt/profiles.yml
           echo '      schema: main' >> ~/.dbt/profiles.yml
-          echo '      schema_directory: "data/"' >> ~/.dbt/profiles.yml
+          echo '      schema_directory: "Retail_DataLakeHouse/data/"' >> ~/.dbt/profiles.yml
           echo '      schemas_and_paths:' >> ~/.dbt/profiles.yml
-          echo '        main: "data/retail_dwh.db"' >> ~/.dbt/profiles.yml
+          echo '        main: "Retail_DataLakeHouse/data/retail_dwh.db"' >> ~/.dbt/profiles.yml
+
 
 
 
