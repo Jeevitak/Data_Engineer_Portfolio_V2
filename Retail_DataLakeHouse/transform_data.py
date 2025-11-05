@@ -2,8 +2,8 @@ import json
 import os
 import pandas as pd
 
-STAGING_PATH = "data/staging"
-PROCESSED_PATH = "data/processed"
+STAGING_PATH = "Retail_DataLakeHouse/data/staging"
+PROCESSED_PATH = "Retail_DataLakeHouse/data/processed"
 os.makedirs(PROCESSED_PATH, exist_ok=True)
 ##Load all data
 products = pd.read_json(f"{STAGING_PATH}/products.json")
