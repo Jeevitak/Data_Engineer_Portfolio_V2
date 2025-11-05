@@ -1,4 +1,0 @@
-pandas
-dbt-core
-dbt-sqlite
-faker
