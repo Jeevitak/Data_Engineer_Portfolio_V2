@@ -57,10 +57,26 @@ jobs:
           echo "      schema_directory: '$(pwd)/Retail_DataLakeHouse/data/'" >> ~/.dbt/profiles.yml
           echo '      schemas_and_paths:' >> ~/.dbt/profiles.yml
           echo "        main: '$(pwd)/Retail_DataLakeHouse/data/retail_dwh.db'" >> ~/.dbt/profiles.yml
-        
+
       - name: Clean existing SQLite DB
         run: |
           rm -f Retail_DataLakeHouse/data/retail_dwh.db
+
+      - name: Load CSV into SQLite
+        run: |
+          python - <<EOF
+          import pandas as pd, sqlite3, os
+          db_path = os.path.join("Retail_DataLakeHouse", "data", "retail_dwh.db")
+          os.makedirs(os.path.dirname(db_path), exist_ok=True)
+          conn = sqlite3.connect(db_path)
+          csv_path = os.path.join("Retail_DataLakeHouse", "data", "sales_2025_01_01.csv")
+          if not os.path.exists(csv_path):
+              raise FileNotFoundError(f"❌ CSV not found at: {csv_path}")
+          df = pd.read_csv(csv_path)
+          df.to_sql("main.sales_2025_01_01", conn, index=False, if_exists="replace")
+          conn.close()
+          print("✅ Loaded sales_2025_01_01.csv into SQLite database successfully.")
+          EOF
 
       - name: Run dbt models
         run: |
