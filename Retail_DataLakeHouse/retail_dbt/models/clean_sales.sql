@@ -1,4 +1,3 @@
-
 select
     sale_id,
     date,
@@ -7,5 +6,6 @@ select
     quantity,
     unit_price,
     total_amount
-from main.fact_retail_sales
+from {{ ref('stg_sales') }}
+
 

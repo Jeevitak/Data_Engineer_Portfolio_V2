@@ -1,4 +1,3 @@
--- models/fact_retail_sales.sql
 WITH sales_data AS (
     SELECT
         sale_id,
@@ -17,3 +16,4 @@ SELECT
     strftime('%Y', date) AS sale_year,
     strftime('%m', date) AS sale_month
 FROM sales_data
+
